@@ -1,4 +1,4 @@
-# Introdução ao Elixir💧💜
+# Introdução ao Elixi💜
 
 No terminal, esse é o comando para usar o ambiente interativo do Elixir: 
 ```elixir
