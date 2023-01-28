@@ -12,8 +12,5 @@ iex> 0b0110
 ```
 
 
-| [1 - Tipos básicos](-)        
-| [2 - Operações básicas](-)
-
-
-
+| [1 - Tipos básicos](tiposbasicos.md)        
+| [2 - Operações básicas](operacoesbasicas.md)

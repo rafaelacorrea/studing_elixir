@@ -4,10 +4,13 @@
 ```elixir
 iex> 2 + 2
 4
+
 iex> 3 - 5
 -2
+
 iex> 2 * 5
 10
+
 iex> 20 / 3   
 6.666666666666667
 ```
@@ -29,10 +32,13 @@ iex> rem(20,3)
 ```elixir
 iex> true
 true
+
 iex> !true
 false
+
 iex> false
 false
+
 iex> !false
 true
 ```
@@ -41,6 +47,7 @@ true
 ```elixir
 iex> true && true
 true
+
 iex> true && false
 false
 ```
@@ -49,6 +56,7 @@ false
 ```elixir
 iex> true || false
 true
+
 iex> false || false
 false
 ```
@@ -121,6 +129,7 @@ Interpolação de strings: Colocar uma string dentro de outra.
 ```elixir
 iex> nome = "Rafaela"
 "Rafaela"
+
 iex> "Meu nome é #{nome}"
 "Meu nome é Rafaela"
 ```
@@ -129,6 +138,9 @@ Concatenação de strings:
 ```elixir
 iex> nome = "Rafaela"
 "Rafaela"
+
 iex> "Meu nome é " <> nome
 "Meu nome é Rafaela"
 ```
+
+[<<< [Tipos Básicos](tiposbasicos.md) ||    [ Início](/README.md)    ||[ Apresentando o Elixir>>>](operacoesbasicas.md)
