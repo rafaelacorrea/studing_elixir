@@ -3,7 +3,7 @@ PT-BR: Esse repositório foi criado na intenção de auxiliar os estudos da ling
 
 EN: This repository was created with the intention to help the studies of [```Elixir```](https://elixir-lang.org/) language.
 
-![elixir-logo](https://github.com/rafaelacorrea/studing_elixir/assets/blob/main/elixir-logo.png)
+![elixir-logo](assets/elixir-logo.png)
 
 ## Elixir é uma linguagem dinâmica e funcional para construir aplicações escaláveis ​​e sustentáveis. 
 
