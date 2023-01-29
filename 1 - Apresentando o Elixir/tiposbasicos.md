@@ -32,4 +32,4 @@ iex(7)> "Olá, mundo"
 "Olá, mundo"
 ```
 
-[<<< Apresentando o Elixir](README.md) ||    [ Início](/README.md)    ||[ Operações Básicas>>>](operacoesbasicas.md)
+[<<< Apresentando o Elixir ](README.md)| - - - - - - - - - - - -|[ Início ](/README.md)| - - - - - - - - - - - -|[ Operações Básicas>>> ](operacoesbasicas.md)

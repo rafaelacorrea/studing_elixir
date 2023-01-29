@@ -1,6 +1,15 @@
 # Operações básicas:
 
-## Opredores aritméticos:
+* [Operadores aritiméticos](#operadores-aritméticos)
+
+* [Operadores relacionais](#operadores-relacionais)
+
+* [Operadores Comparativos](#operadores-comparativos)
+
+* [Interpolação de Strings](#interpolação-de-strings-colocar-uma-string-dentro-de-outra)
+
+
+## Operadores aritméticos:
 ```elixir
 iex> 2 + 2
 4
@@ -28,7 +37,7 @@ iex> rem(20,3)
 ```
 
 ## Operadores relacionais:
-!(Não - retorna o contrário):
+! (Não - retorna o contrário):
 ```elixir
 iex> true
 true
@@ -43,7 +52,7 @@ iex> !false
 true
 ```
 
-&&(E - retorna true apenas se as duas parte comparadas forem verdadeiras).
+&& (E - retorna true apenas se as duas parte comparadas forem verdadeiras).
 ```elixir
 iex> true && true
 true
@@ -52,7 +61,7 @@ iex> true && false
 false
 ```
 
-||(OU - Retorna true se pelo menos umas das partes forem verdadeiras).
+|| (OU - Retorna true se pelo menos umas das partes forem verdadeiras).
 ```elixir
 iex> true || false
 true
@@ -61,7 +70,7 @@ iex> false || false
 false
 ```
 
-AND, OR(Diferente do && e ||, o and, or e not verificam se a primeira parte da comparação é um boleano para então prosseguir com a verificação. Caso contrário, é retornado um erro):
+AND, OR (Diferente do && e ||, o and, or e not verificam se a primeira parte da comparação é um boleano para então prosseguir com a verificação. Caso contrário, é retornado um erro):
 ```elixir
 iex> 1 and true
 ** (BadBooleanError) expected a boolean on left-side of "and", got: 1
@@ -125,7 +134,8 @@ iex> 2 === 2.0
 false
 ```
 
-Interpolação de strings: Colocar uma string dentro de outra.
+## Interpolação de strings: 
+Colocar uma string dentro de outra.
 ```elixir
 iex> nome = "Rafaela"
 "Rafaela"
@@ -143,4 +153,4 @@ iex> "Meu nome é " <> nome
 "Meu nome é Rafaela"
 ```
 
-[<<< [Tipos Básicos](tiposbasicos.md) ||    [ Início](/README.md)    ||[ Apresentando o Elixir>>>](operacoesbasicas.md)
+ [<<<Tipos Básicos](tiposbasicos.md) | - - - - - - - - - - - - - -| [ Início](/README.md) |- - - - - - - - - - - - - -|[ Apresentando o Elixir >>>](operacoesbasicas.md)
