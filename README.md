@@ -11,4 +11,5 @@ EN: This repository was created with the intention to help the studies of [```El
 
 fontes: https://elixir-lang.org/
 
-[1 - Apresentando o Elixir](/1%20-%20Apresentando%20o%20Elixir/README.md)
+* [Apresentando o Elixir](/1%20-%20Apresentando%20o%20Elixir/README.md)
+* [Coleções](/2%20-%20Cole%C3%A7%C3%B5es/README.md)
