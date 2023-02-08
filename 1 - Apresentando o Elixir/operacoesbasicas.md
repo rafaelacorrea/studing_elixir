@@ -153,4 +153,4 @@ iex> "Meu nome é " <> nome
 "Meu nome é Rafaela"
 ```
 
- [<<<Tipos Básicos](tiposbasicos.md) | - - - - - - - - - - - - - -| [ Início](/README.md) |- - - - - - - - - - - - - -|[ Apresentando o Elixir >>>](operacoesbasicas.md)
+ [<<< Tipos Básicos](tiposbasicos.md) | - - - - - - - - - - - - - -| [ Início](/README.md) |- - - - - - - - - - - - - -|[ Apresentando o Elixir >>>](operacoesbasicas.md)
